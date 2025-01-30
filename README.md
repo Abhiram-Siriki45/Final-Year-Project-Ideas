@@ -1,6 +1,6 @@
 # Final Year Project Ideas 💡👨🏻‍💻
 
-> ### This project is excluded for Hacktoberfest. Please use this as a testing project.
+> ### This Project is excluded for Hacktoberfest. Please use this as a testing project.
 
 > ### *Instead of just adding your name and email, why not create a list of project ideas?*
 
